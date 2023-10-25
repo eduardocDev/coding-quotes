@@ -13,8 +13,8 @@
     <section class="hero is-primary">
         <div class="hero-body">
             <div class="container">
-                <h1 class="title is-1">Coding Quotes</h1>
-                <h2 class="subtitle">Like your favorites</h2>
+                <h1 class="title is-1">Quotes</h1>
+                <h2 class="subtitle">There are the bests</h2>
             </div>
         </div>
     </section>
@@ -43,6 +43,14 @@
                 <div class="card-content">
                     <h2 class="title">"A única maneira de aprender é fazer."</h2>
                     <h3 class="subtitle">Steve Jobs</h3>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                <div class="card-content">
+                    <h2 class="title">"AOf course, bad code can be cleaned up. But it’s very expensive."</h2>
+                    <h3 class="subtitle">Robert C. Martin</h3>
                 </div>
             </div>
         </div>
