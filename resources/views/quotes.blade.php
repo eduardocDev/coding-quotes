@@ -22,38 +22,52 @@
     {{-- colums --}}
 
     <div class="columns">
+
         <div class="column">
             <div class="card">
                 <div class="card-content">
-                    <h2 class="title">"Acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar."</h2>
-                    <h3 class="subtitle">Alan Turing</h3>
+                    <h2 class="title">"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."</h2>
+                    <h3 class="subtitle">Linus Torvalds</h3>
                 </div>
             </div>
         </div>
+
         <div class="column">
             <div class="card">
                 <div class="card-content">
-                    <h2 class="title">"O objetivo da ciência é descrever a ordem no caos."</h2>
-                    <h3 class="subtitle"> John von Neumann</h3>
-                </div>
-            </div>
-        </div>
-        <div class="column">
-            <div class="card">
-                <div class="card-content">
-                    <h2 class="title">"A única maneira de aprender é fazer."</h2>
+                    <h2 class="title">"Everybody should learn to program a computer because it teaches you how to think. "</h2>
                     <h3 class="subtitle">Steve Jobs</h3>
                 </div>
             </div>
         </div>
+
         <div class="column">
             <div class="card">
                 <div class="card-content">
-                    <h2 class="title">"AOf course, bad code can be cleaned up. But it’s very expensive."</h2>
+                    <h2 class="title">"A of course, bad code can be cleaned up. But it’s very expensive."</h2>
                     <h3 class="subtitle">Robert C. Martin</h3>
                 </div>
             </div>
         </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="card-content">
+                    <h2 class="title">"Programming is learned by writing programs."</h2>
+                    <h3 class="subtitle">Brian Kernighan</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="card-content">
+                    <h2 class="title">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</h2>
+                    <h3 class="subtitle">Martin Fowler</h3>
+                </div>
+            </div>
+        </div>
+
     </div>
 </body>
 </html>
